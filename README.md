@@ -28,7 +28,8 @@ I enjoy translating theory into practical, real-world solutions and collaboratin
 
 ---
 
-🌱 Career Objective
+## 🌱 Career Objective
+
 I'm passionate about building intelligent, scalable systems that solve real-world problems using machine learning, NLP, and system design. My goal is to contribute to impactful projects in software engineering or data science, where I can apply my technical skills, collaborate with innovative teams, and continuously grow through hands-on development and learning
 
 ---
